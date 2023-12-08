@@ -1,11 +1,11 @@
 <?php
 /*
- * Plugin Name: Payment Gateway for Broadpay on WooCommerce
+ * Plugin Name: Payment Gateway for BroadPay
  * Plugin URI: https://github.com/sparcopay/wc-broadpay-payment-gateway
  * Description: Accept Mobile Money and Credit Card payments.
  * Version: 1.0.0
  * Author: BroadPay
- * Author URI: https://github.com/sparcopay/wc-broadpay-payment-gateway
+ * Author URI: https://broadpayzm.com
  * text-domain: broadpay-gateway
 */
 
