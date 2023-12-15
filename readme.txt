@@ -1,7 +1,7 @@
 === Payment Gateway for Broadpay on WooCommerce ===
 Tags: woocommerce, broadpay, mobile money, visa, mastercard, zambia
 Requires at least: 4.0.1
-Tested up to: 5.6
+Tested up to: 6.4
 Requires PHP: 5.6
 Stable tag: 1.0.0
 License: GPLv2 or later
